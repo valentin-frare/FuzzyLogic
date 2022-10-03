@@ -3,4 +3,4 @@
 # Created in Python 3.9
 
 # Install:
-# pip install -r requirements.txt
+pip install -r requirements.txt
