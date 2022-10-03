@@ -1,5 +1,5 @@
 # FuzzyLogic
 Created in Python 3.9
 
-# Install:
+# Installation
 pip install -r requirements.txt
